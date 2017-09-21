@@ -3,7 +3,9 @@
 > 解决在部分ios微信中使用vue单页面设置标题兼容问题
 
 [在线效果预览](http://coolyc.win/demo/wechatTitle/index.html)
+
 扫描二维码预览：
+
 ![yulan](http://coolyc.win/images/2017/09/rwmWechatTitle.png)
 
 ## Build Setup
